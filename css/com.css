@@ -1,0 +1,10 @@
+.alert-custom{
+	color: black;
+}
+
+.alert-custom:hover{
+	color:#bb1ebd;
+}
+/*button{
+	margin-bottom: 15px;
+}*/

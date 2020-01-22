@@ -1,0 +1,11 @@
+.container{
+	border: 5px solid black;
+	margin-top: 100px;
+	background-color: rgb(212, 237, 218);
+}
+ul li a{
+	/*display: block;*/
+	font-size: 78px;
+	padding: 20px;
+	word-spacing: 10px;
+}
